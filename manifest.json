@@ -33,6 +33,29 @@
       ],
       "ast": [
         "aggregate/ast/8a0801f35176710f17afb3b73951fbec629bcb7c/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8a0801f35176710f17afb3b73951fbec629bcb7c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@modelcontextprotocol/sdk",
+          "ecosystem": "NPM",
+          "version": "1.27.1",
+          "githubOrg": "modelcontextprotocol",
+          "githubRepo": "typescript-sdk",
+          "githubCommit": "4faa8c899c069a98f8a0c3f804ec1a50dc2bae64",
+          "githubTag": "v1.27.1",
+          "githubUrl": "git+https://github.com/modelcontextprotocol/typescript-sdk.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/bun",
+          "ecosystem": "NPM",
+          "version": "latest",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
