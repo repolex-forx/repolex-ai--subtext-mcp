@@ -1,0 +1,11 @@
+{
+  "org": "repolex-ai",
+  "repo": "subtext-mcp",
+  "versions": [
+    {
+      "commit": "8a0801f35176710f17afb3b73951fbec629bcb7c",
+      "tag": "main",
+      "parsed_at": "2026-09-24T11:54:59.778830+00:00"
+    }
+  ]
+}
